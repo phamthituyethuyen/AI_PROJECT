@@ -39,3 +39,5 @@ print(Employee2.information())
 
 #static method
 Employee2.notice_infor()
+
+print(dir(int))
